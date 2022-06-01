@@ -1,1 +1,1 @@
-Olá aqui iremos aprender a conmo usar o Git
+Olá aqui iremos aprender a como usar o Git
